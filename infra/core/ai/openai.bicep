@@ -13,6 +13,10 @@ module openai 'br/public:avm/res/cognitive-services/account:0.4.1' = {
     customSubDomainName: openaiName
     location: location
     roleAssignments: roleAssignments
+    networkAcls: {
+      defaultAction: 'Allow'
+    }
+    publicNetworkAccess: 'Enabled'
   }
 }
 

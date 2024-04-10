@@ -39,5 +39,13 @@ param openaiRoleAssignments = [
   }
 ]
 
+param docIntelligenceName = '<your-doc-intelligence-name>'
+param docIntelRoleAssignments = [
+  {
+    principalId: '00000000-0000-0000-0000-000000000000'
+    principalType: 'User'
+    roleDefinitionIdOrName: 'Cognitive Services User'
+  }
+]
 
 
