@@ -75,5 +75,6 @@ az deployment group create --resource-group <myResourceGroup> --template-file ma
 ## Guide
 1. [Getting Started](notebooks/0-getting-started.ipynb)
 2. [OCR to the Rescue](docs/OCR-to-the-rescue_en.md)
+3. [Refactoring and Extraction of Logic into C# Classes](docs/1-Refactoring.md)
 
 
