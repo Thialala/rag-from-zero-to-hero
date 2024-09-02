@@ -2,7 +2,7 @@
 
 ## Overview
 
-This part focuses on the refactored logic (first part) from the first two Jupyter Notebooks that was used to process OCR tasks and manage document workflows. The original code has been modularized and extracted into separate C# classes to enhance maintainability and reusability, for future Notebooks. This README will explain the purpose of each class, how they interact with one another, and how to use them.
+This part focuses on the refactored logic (first part) from the first two Jupyter Notebooks that was used to process OCR tasks and manage document workflows. The original code has been modularized and extracted into separate C# classes to enhance maintainability and reusability, for future Notebooks. This README will explain the purpose of each class, how they interact with one another, and how to use them. The C# classes are part of the folder [notebooks/src](/notebooks/src/).
 
 ## Classes and Structure
 
